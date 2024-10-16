@@ -4,7 +4,7 @@
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 [![License: MIT][license_badge]][license_link]
 
-Gravity UI on Flutter.
+**[Gravity UI][gravity_ui_link]** on Flutter.
 
 ## Installation 💻
 
@@ -65,3 +65,4 @@ open coverage/index.html
 [very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
 [very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
 [very_good_workflows_link]: https://github.com/VeryGoodOpenSource/very_good_workflows
+[gravity_ui_link]: https://gravity-ui.com/
