@@ -1,6 +1,7 @@
 name: gravity_ui
 description: Gravity UI on Flutter.
 version: 0.0.1
+repository: "https://github.com/proteye/flutter-gravity-ui"
 
 environment:
   sdk: ^3.5.0
